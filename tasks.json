@@ -1,0 +1,8 @@
+[
+  {
+    "chatId": 123456789,
+    "datetime": "2026-03-10T07:00:00",
+    "task": "회의",
+    "notified": false
+  }
+]
